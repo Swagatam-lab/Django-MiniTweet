@@ -13,7 +13,7 @@ A minimal Twitter-like web application built using Django. Users can sign up, po
 
 ## 🛠️ Tech Stack
 
-- Python 3
+- Python
 - Django
 - SQLite (default DB)
 - HTML, CSS, Bootstrap
