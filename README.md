@@ -42,27 +42,23 @@ cd Django-MiniTweet
 Create a Virtual Environment
 
 bash
-Copy
-Edit
+
 python -m venv venv
 venv\Scripts\activate  # Windows
 Install Dependencies
 
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run Migrations
 
 bash
-Copy
-Edit
+
 python manage.py migrate
 Start the Server
 
 bash
-Copy
-Edit
+
 python manage.py runserver
 Access the App
 Go to: http://127.0.0.1:8000/
